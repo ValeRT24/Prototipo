@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tarea3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="inicio">Inicio</string>
+    <string name="comida_diaria">Comida diaria</string>
+    <string name="fav">Favorito</string>
+    <string name="recetas_de_comida">Recetas de Comida</string>
+    <string name="mi_aplicacion_de_recetas">Mi aplicación de Recetas</string>
+    <string name="bienvenida">Hola! Explora las recetas</string>
+    <string name="welcome">que tenemos para ti</string>
+    <string name="register">Registrate</string>
+    <string name="sesión">Inicia Sesión</string>4
+    <string name="nombre">Nombre Completo</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="inicio_sesion">Iniciar Sesión</string>
+    <string name="regis">Ya estás registrado?</string>
+    <string name="no_cuenta">No tengo una cuenta</string>
+
+    <string name="hola_explora_las_recetas_que_tenemos_para_ti">Hola explora las recetas que tenemos para ti</string>
+</resources>
