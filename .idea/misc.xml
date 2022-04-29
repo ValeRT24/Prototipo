@@ -13,10 +13,12 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2826086956521739" />
         <entry key="app/src/main/res/layout/activity_registration.xml" value="0.2826086956521739" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.2826086956521739" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.2826086956521739" />
         <entry key="app/src/main/res/layout/comida_diaria_fragment.xml" value="0.2826086956521739" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/fragment_favorito.xml" value="0.2826086956521739" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2826086956521739" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.3182291666666667" />
       </map>
     </option>
   </component>
