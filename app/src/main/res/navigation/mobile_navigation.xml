@@ -12,13 +12,13 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_comida_diaria"
         android:name="fciencias.pdm20222.tarea3.ui.gallery.ComidaDiariaFragment"
         android:label="@string/comida_diaria"
         tools:layout="@layout/comida_diaria_fragment" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
+        android:id="@+id/nav_favorito"
         android:name="fciencias.pdm20222.tarea3.ui.slideshow.FavoritoFragment"
         android:label="@string/fav"
         tools:layout="@layout/fragment_favorito" />
