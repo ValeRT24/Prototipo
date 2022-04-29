@@ -8,18 +8,18 @@
     <fragment
         android:id="@+id/nav_home"
         android:name="fciencias.pdm20222.tarea3.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:label="@string/inicio"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_gallery"
         android:name="fciencias.pdm20222.tarea3.ui.gallery.ComidaDiariaFragment"
-        android:label="@string/menu_gallery"
+        android:label="@string/comida_diaria"
         tools:layout="@layout/comida_diaria_fragment" />
 
     <fragment
         android:id="@+id/nav_slideshow"
         android:name="fciencias.pdm20222.tarea3.ui.slideshow.FavoritoFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/fav"
         tools:layout="@layout/fragment_favorito" />
 </navigation>
