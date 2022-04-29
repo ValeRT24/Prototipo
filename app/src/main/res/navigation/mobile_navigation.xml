@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="fciencias.pdm20222.tarea3.ui.gallery.GalleryFragment"
+        android:name="fciencias.pdm20222.tarea3.ui.gallery.ComidaDiariaFragment"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/comida_diaria_fragment" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="fciencias.pdm20222.tarea3.ui.slideshow.SlideshowFragment"
+        android:name="fciencias.pdm20222.tarea3.ui.slideshow.FavoritoFragment"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_favorito" />
 </navigation>

@@ -1,23 +1,23 @@
-package fciencias.pdm20222.tarea3.ui.home;
+package fciencias.pdm20222.tarea3.ui.gallery;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.ViewModelProvider;
 
 import fciencias.pdm20222.tarea3.R;
 import fciencias.pdm20222.tarea3.databinding.FragmentHomeBinding;
 
-public class HomeFragment extends Fragment {
+public class ComidaDiariaFragment extends Fragment {
+
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_home,container,false);
+        View root = inflater.inflate(R.layout.comida_diaria_fragment,container,false);
+
         return root;
     }
 }

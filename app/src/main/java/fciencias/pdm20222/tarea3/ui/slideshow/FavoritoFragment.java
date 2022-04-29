@@ -1,4 +1,4 @@
-package fciencias.pdm20222.tarea3.ui.home;
+package fciencias.pdm20222.tarea3.ui.slideshow;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -13,11 +13,15 @@ import androidx.lifecycle.ViewModelProvider;
 import fciencias.pdm20222.tarea3.R;
 import fciencias.pdm20222.tarea3.databinding.FragmentHomeBinding;
 
-public class HomeFragment extends Fragment {
+public class FavoritoFragment extends Fragment {
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_home,container,false);
+        View root = inflater.inflate(R.layout.fragment_favorito,container,false);
         return root;
     }
 }
+
+
+
+
