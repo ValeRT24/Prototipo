@@ -1,4 +1,4 @@
-package fciencias.pdm20222.tarea3;
+package fciencias.pdm20222.tarea3.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+
+import fciencias.pdm20222.tarea3.R;
 
 public class WelcomeActivity extends AppCompatActivity {
 
@@ -19,7 +21,7 @@ public class WelcomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_welcome);
     }
     public void register(View view) {
-        startActivity(new Intent( WelcomeActivity.this,RegistrationActivity.class));
+        startActivity(new Intent( WelcomeActivity.this, RegistrationActivity.class));
     }
 
     public void login(View view) {

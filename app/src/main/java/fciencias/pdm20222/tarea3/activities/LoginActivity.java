@@ -1,10 +1,13 @@
-package fciencias.pdm20222.tarea3;
+package fciencias.pdm20222.tarea3.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import fciencias.pdm20222.tarea3.MainActivity;
+import fciencias.pdm20222.tarea3.R;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -15,10 +18,10 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void register(View view) {
-        startActivity(new Intent( LoginActivity.this,RegistrationActivity.class));
+        startActivity(new Intent( LoginActivity.this, RegistrationActivity.class));
     }
 
     public void mainActivity(View view) {
-        startActivity(new Intent( LoginActivity.this,MainActivity.class));
+        startActivity(new Intent( LoginActivity.this, MainActivity.class));
     }
 }

@@ -1,4 +1,4 @@
-package fciencias.pdm20222.tarea3;
+package fciencias.pdm20222.tarea3.ui;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import fciencias.pdm20222.tarea3.R;
 
 /**
  * A simple {@link Fragment} subclass.

@@ -34,4 +34,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="hola">Bienvenide</string>
+    <string name="sumergete_en_nuestro_mundo_de_recetas">Sumergete en nuestro mundo de recetas</string>
 </resources>
