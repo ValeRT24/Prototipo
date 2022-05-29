@@ -8,6 +8,7 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_baseline_home_24"
             android:title="@string/inicio" />
+
         <item
             android:id="@+id/nav_comida_diaria"
             android:icon="@drawable/ic_baseline_fastfood_24"
@@ -16,5 +17,10 @@
             android:id="@+id/nav_favorito"
             android:icon="@drawable/ic_baseline_favorite_24"
             android:title="@string/fav" />
+        <item
+            android:id="@+id/nav_my_cart"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/my_cart" />
+
     </group>
 </menu>
